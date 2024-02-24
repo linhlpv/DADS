@@ -1,0 +1,12 @@
+noise_type_real: "normal"
+p_mean_real: 1.0
+p_std_real: 0.2
+v_mean_real: -1.0
+v_std_real: 0.2
+scale_real: 0.02
+
+noise_type_sim: "uni"
+p_high_sim: 0.02
+p_low_sim: -0.02
+v_high_sim: 0.02
+v_low_sim: -0.02

@@ -1,0 +1,11 @@
+noise_high_real: 0.02
+noise_low_real: 0.0
+noise_mean_real: -1.5
+noise_std_real: 0.5
+noise_scale_real: 0.01
+
+noise_high_sim: 0.01
+noise_low_sim: -0.01
+noise_mean_sim: 0.0
+noise_std_sim: 0.5
+noise_scale_sim: 0.01
