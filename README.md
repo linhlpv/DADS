@@ -23,11 +23,13 @@ python dads.py --device=cuda
 
 If you find our code helpful or utilise our proposed method as comparison baselines in your experiments, please cite our paper. Again, thank you for your interest!
 ```
-@misc{van2024policy,
-      title={Policy Learning for Off-Dynamics RL with Deficient Support}, 
-      author={Linh Le Pham Van and Hung The Tran and Sunil Gupta},
-      year={2024},
-      eprint={2402.10765},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@inproceedings{10.5555/3635637.3662965,
+author = {Le Pham Van, Linh and The Tran, Hung and Gupta, Sunil},
+title = {Policy Learning for Off-Dynamics RL with Deficient Support},
+year = {2024},
+isbn = {9798400704864},
+publisher = {International Foundation for Autonomous Agents and Multiagent Systems},
+booktitle = {Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems},
+pages = {1093–1100},
+series = {AAMAS '24}
 }
